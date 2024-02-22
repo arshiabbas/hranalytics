@@ -1,2 +1,2 @@
 # hranalytics
-Help an organization to improve employee performance and improve employee retention (reduce attrition) by creating a HR Analytics Dashboard using Power BI
+The HR Data Analytics project aimed to enhance organizational performance and mitigate attrition rates by leveraging Power BI to develop an interactive dashboard. The primary objective was to identify factors contributing to employee turnover and formulate strategies for retention. The project involved analyzing employee demographics, attrition rates, salary distributions, and tenure durations to gain insights into retention challenges and formulate data-driven solutions.
